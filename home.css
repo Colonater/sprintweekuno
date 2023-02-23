@@ -1,0 +1,147 @@
+.frame-7,
+.frame-7 * {
+  box-sizing: border-box;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.desktop---1 {
+  background: #81bff9;
+  flex-shrink: 0;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-6,
+.frame-6 * {
+  box-sizing: border-box;
+}
+.frame-6 {
+  background: #0d0c56;
+  padding: 12px 209px 12px 209px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-4 {
+  background: #f68a25;
+  padding: 25px 211px 25px 211px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.dirty-birds-famous-chicken-and-tators {
+  color: #ffffff;
+  text-align: left;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 580px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.dirtybird-1-1-1 {
+  flex-shrink: 0;
+  width: 106px;
+  height: 118px;
+  position: relative;
+}
+.dirtybird-1-1-2 {
+  flex-shrink: 0;
+  width: 113px;
+  height: 127px;
+  position: relative;
+}
+.group-1,
+.group-1 * {
+  box-sizing: border-box;
+}
+.group-1 {
+  width: 1444px;
+  height: 325px;
+  position: static;
+}
+.lovepik-american-west-town-restaurant-png-image_401460064_wh300-1 {
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.46);
+  border-width: 1px;
+  width: 1423px;
+  height: 300px;
+  position: absolute;
+  left: -1401px;
+  top: -344px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.dirty-birds-was-established-in-1931--in-the-mist-of-the-great-depression--ceceil-o-bird-s-goal-of-opening-dirty-birds-at-such-a-rough-time-was-to-offer-cheaper-but-amazing-tasting-food--not-to-make-profit-but-to-help-get-food-for-the-people-in-need--almost-a-century-has-past-and-dirty-birds-has-never-strived-so-much--producing-the-worlds-best-chicken-for-all-to-eat- {
+  color: #faff00;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: -1127px;
+  top: -274px;
+  width: 1095px;
+  height: 243px;
+}
+.dirtybird-1 {
+  width: 295px;
+  height: 325px;
+  position: absolute;
+  left: -1422px;
+  top: -356px;
+}
+.dirty-birds-famous-chicken-and-tators---the-best-dam-chicken-shop-in-newfoundland--featuring-the-dirtest-greasest-chicken-and-local-pooched-animals-on-the-island,
+.dirty-birds-famous-chicken-and-tators---the-best-dam-chicken-shop-in-newfoundland--featuring-the-dirtest-greasest-chicken-and-local-pooched-animals-on-the-island
+  * {
+  box-sizing: border-box;
+}
+.dirty-birds-famous-chicken-and-tators---the-best-dam-chicken-shop-in-newfoundland--featuring-the-dirtest-greasest-chicken-and-local-pooched-animals-on-the-island {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: relative;
+  width: 1258px;
+  height: 135px;
+}
+.located-at-1069-peter-street--paradise-nl,
+.located-at-1069-peter-street--paradise-nl * {
+  box-sizing: border-box;
+}
+.located-at-1069-peter-street--paradise-nl {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 567px;
+  height: 43px;
+}
+.hours-of-operation-mon-fri--9-00am-9-00pm-sat--10-00am-8-00pm-sun--12-00am---5-00pm,
+.hours-of-operation-mon-fri--9-00am-9-00pm-sat--10-00am-8-00pm-sun--12-00am---5-00pm
+  * {
+  box-sizing: border-box;
+}
+.hours-of-operation-mon-fri--9-00am-9-00pm-sat--10-00am-8-00pm-sun--12-00am---5-00pm {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px "Inter", sans-serif;
+  position: relative;
+  width: 266px;
+  height: 207px;
+}

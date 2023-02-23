@@ -1,0 +1,890 @@
+.frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  background: #81bff9;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-18 {
+  background: #0d0c56;
+  width: 564px;
+  height: 148px;
+  position: absolute;
+  left: 440px;
+  top: 38px;
+}
+.rectangle-17 {
+  position: absolute;
+  left: 473px;
+  top: 61px;
+  overflow: visible;
+}
+.place-online-order {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 188px;
+  top: 90px;
+  width: 1063px;
+  height: 45px;
+}
+.rectangle-19 {
+  background: #0d0c56;
+  width: 685px;
+  height: 742px;
+  position: absolute;
+  left: 378px;
+  top: 243px;
+}
+.rectangle-20 {
+  background: #f68a25;
+  width: 629px;
+  height: 686px;
+  position: absolute;
+  left: 405px;
+  top: 271px;
+}
+.group-3 {
+  width: 321px;
+  height: 39px;
+  position: static;
+}
+.rectangle-21 {
+  background: #d9d9d9;
+  width: 231px;
+  height: 39px;
+  position: absolute;
+  left: 440px;
+  top: 308px;
+}
+.group-2 {
+  width: 78px;
+  height: 39px;
+  position: static;
+}
+.rectangle-22 {
+  background: #d9d9d9;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  left: 683px;
+  top: 308px;
+}
+.group-4 {
+  width: 321px;
+  height: 39px;
+  position: static;
+}
+.group-5 {
+  width: 321px;
+  height: 271px;
+  position: static;
+}
+.rectangle-212 {
+  background: #d9d9d9;
+  width: 231px;
+  height: 39px;
+  position: absolute;
+  left: 440px;
+  top: 363px;
+}
+.rectangle-222 {
+  background: #d9d9d9;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  left: 683px;
+  top: 363px;
+}
+.group-42 {
+  width: 321px;
+  height: 214px;
+  position: static;
+}
+.rectangle-213 {
+  background: #d9d9d9;
+  width: 231px;
+  height: 39px;
+  position: absolute;
+  left: 440px;
+  top: 420px;
+}
+.rectangle-223 {
+  background: #d9d9d9;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  left: 683px;
+  top: 420px;
+}
+.group-43 {
+  width: 321px;
+  height: 159px;
+  position: static;
+}
+.rectangle-214 {
+  background: #d9d9d9;
+  width: 231px;
+  height: 39px;
+  position: absolute;
+  left: 440px;
+  top: 475px;
+}
+.rectangle-224 {
+  background: #d9d9d9;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  left: 683px;
+  top: 475px;
+}
+.group-44 {
+  width: 321px;
+  height: 102px;
+  position: static;
+}
+.rectangle-215 {
+  background: #d9d9d9;
+  width: 231px;
+  height: 39px;
+  position: absolute;
+  left: 440px;
+  top: 532px;
+}
+.rectangle-225 {
+  background: #d9d9d9;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  left: 683px;
+  top: 532px;
+}
+.rectangle-216 {
+  background: #d9d9d9;
+  width: 231px;
+  height: 39px;
+  position: absolute;
+  left: 440px;
+  top: 595px;
+}
+.rectangle-226 {
+  background: #d9d9d9;
+  width: 78px;
+  height: 39px;
+  position: absolute;
+  left: 683px;
+  top: 595px;
+}
+.raw-chicken-fillets {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 451px;
+  top: 318px;
+  width: 208px;
+  height: 20px;
+}
+.crows-full-of-worms {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 541px;
+  width: 208px;
+  height: 20px;
+}
+.bald-eagle {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 604px;
+  width: 208px;
+  height: 20px;
+}
+.poached-live-moose {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 372px;
+  width: 208px;
+  height: 20px;
+}
+.boiled-turr {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 429px;
+  width: 208px;
+  height: 20px;
+}
+.american-special--live- {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 484px;
+  width: 208px;
+  height: 20px;
+}
+.-12-99 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 690px;
+  top: 315px;
+  width: 62px;
+  height: 23px;
+}
+.-25-32 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 689px;
+  top: 429px;
+  width: 62px;
+  height: 23px;
+}
+.-100-00 {
+  color: #000000;
+  text-align: center;
+  font: 400 16px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 689px;
+  top: 486px;
+  width: 62px;
+  height: 23px;
+}
+.-0-99 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 689px;
+  top: 541px;
+  width: 62px;
+  height: 23px;
+}
+.-49-99 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 690px;
+  top: 604px;
+  width: 62px;
+  height: 23px;
+}
+.-38-99 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 689px;
+  top: 372px;
+  width: 62px;
+  height: 23px;
+}
+.rectangle-24 {
+  position: absolute;
+  left: 776px;
+  top: 647px;
+  overflow: visible;
+}
+.total-- {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 706px;
+  top: 654px;
+  width: 228px;
+  height: 17px;
+}
+.frame-6 {
+  width: 197px;
+  height: 429px;
+  position: absolute;
+  left: 1373px;
+  top: 435px;
+  overflow: hidden;
+}
+.component-1 {
+  width: 151px;
+  height: 37px;
+  position: absolute;
+  left: 776px;
+  top: 308px;
+}
+.plus {
+  width: 36.63px;
+  height: 35.15px;
+  position: static;
+}
+.ellipse-1 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 35.15px;
+  position: absolute;
+  left: 0px;
+  top: 1.85px;
+}
+.group-7 {
+  width: 23.23px;
+  height: 24.05px;
+  position: static;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 7.15px;
+  top: 21.16px;
+}
+.line-2 {
+  position: absolute;
+  left: 19.76px;
+  top: 31.45px;
+  transform: translate(-2px, -24.05px);
+  overflow: visible;
+}
+.minus {
+  width: 36.63px;
+  height: 35.15px;
+  position: static;
+}
+.ellipse-12 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 35.15px;
+  position: absolute;
+  left: 114.37px;
+  top: 0px;
+}
+.group-72 {
+  width: 23.23px;
+  height: 0px;
+  position: static;
+}
+.line-12 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 121.51px;
+  top: 19.31px;
+}
+.numbers {
+  width: 43.78px;
+  height: 27.75px;
+  position: static;
+}
+.mask-group {
+  width: 43.78px;
+  height: 27.75px;
+  position: static;
+}
+.rectangle-25 {
+  background: #d9d9d9;
+  width: 43.78px;
+  height: 27.75px;
+  position: absolute;
+  left: 53.61px;
+  top: 3.7px;
+}
+._012345 {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 60.76px;
+  top: -2.78px;
+  width: 28.59px;
+  height: 96.2px;
+}
+.component-12 {
+  width: 151px;
+  height: 39px;
+  position: absolute;
+  left: 776px;
+  top: 363px;
+}
+.plus2 {
+  width: 36.63px;
+  height: 37.05px;
+  position: static;
+}
+.ellipse-13 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 37.05px;
+  position: absolute;
+  left: 0px;
+  top: 1.95px;
+}
+.group-73 {
+  width: 23.23px;
+  height: 25.35px;
+  position: static;
+}
+.line-13 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 7.15px;
+  top: 22.3px;
+}
+.line-22 {
+  position: absolute;
+  left: 19.76px;
+  top: 33.15px;
+  transform: translate(-2px, -25.35px);
+  overflow: visible;
+}
+.minus2 {
+  width: 36.63px;
+  height: 37.05px;
+  position: static;
+}
+.ellipse-14 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 37.05px;
+  position: absolute;
+  left: 114.37px;
+  top: 0px;
+}
+.line-14 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 121.51px;
+  top: 20.35px;
+}
+.numbers2 {
+  width: 43.78px;
+  height: 29.25px;
+  position: static;
+}
+.mask-group2 {
+  width: 43.78px;
+  height: 29.25px;
+  position: static;
+}
+.rectangle-252 {
+  background: #d9d9d9;
+  width: 43.78px;
+  height: 29.25px;
+  position: absolute;
+  left: 53.61px;
+  top: 3.9px;
+}
+._0123452 {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 60.76px;
+  top: -2.92px;
+  width: 28.59px;
+  height: 101.4px;
+}
+.component-13 {
+  width: 151px;
+  height: 40px;
+  position: absolute;
+  left: 776px;
+  top: 420px;
+}
+.plus3 {
+  width: 36.63px;
+  height: 38px;
+  position: static;
+}
+.ellipse-15 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 38px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+}
+.group-74 {
+  width: 23.23px;
+  height: 26px;
+  position: static;
+}
+.line-15 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 7.15px;
+  top: 22.88px;
+}
+.line-23 {
+  position: absolute;
+  left: 19.76px;
+  top: 34px;
+  transform: translate(-2px, -26px);
+  overflow: visible;
+}
+.minus3 {
+  width: 36.63px;
+  height: 38px;
+  position: static;
+}
+.ellipse-16 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 38px;
+  position: absolute;
+  left: 114.37px;
+  top: 0px;
+}
+.line-16 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 121.51px;
+  top: 20.88px;
+}
+.numbers3 {
+  width: 43.78px;
+  height: 30px;
+  position: static;
+}
+.mask-group3 {
+  width: 43.78px;
+  height: 30px;
+  position: static;
+}
+.rectangle-253 {
+  background: #d9d9d9;
+  width: 43.78px;
+  height: 30px;
+  position: absolute;
+  left: 53.61px;
+  top: 4px;
+}
+._0123453 {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 60.76px;
+  top: -3px;
+  width: 28.59px;
+  height: 104px;
+}
+.component-14 {
+  width: 151px;
+  height: 38px;
+  position: absolute;
+  left: 776px;
+  top: 477px;
+}
+.plus4 {
+  width: 36.63px;
+  height: 36.1px;
+  position: static;
+}
+.ellipse-17 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 36.1px;
+  position: absolute;
+  left: 0px;
+  top: 1.9px;
+}
+.group-75 {
+  width: 23.23px;
+  height: 24.7px;
+  position: static;
+}
+.line-17 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 7.15px;
+  top: 21.73px;
+}
+.line-24 {
+  position: absolute;
+  left: 19.76px;
+  top: 32.3px;
+  transform: translate(-2px, -24.7px);
+  overflow: visible;
+}
+.minus4 {
+  width: 36.63px;
+  height: 36.1px;
+  position: static;
+}
+.ellipse-18 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 36.1px;
+  position: absolute;
+  left: 114.37px;
+  top: 0px;
+}
+.line-18 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 121.51px;
+  top: 19.83px;
+}
+.numbers4 {
+  width: 43.78px;
+  height: 28.5px;
+  position: static;
+}
+.mask-group4 {
+  width: 43.78px;
+  height: 28.5px;
+  position: static;
+}
+.rectangle-254 {
+  background: #d9d9d9;
+  width: 43.78px;
+  height: 28.5px;
+  position: absolute;
+  left: 53.61px;
+  top: 3.8px;
+}
+._0123454 {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 60.76px;
+  top: -2.85px;
+  width: 28.59px;
+  height: 98.8px;
+}
+.component-15 {
+  width: 151px;
+  height: 40px;
+  position: absolute;
+  left: 776px;
+  top: 532px;
+}
+.line-25 {
+  position: absolute;
+  left: 19.76px;
+  top: 34px;
+  transform: translate(-2px, -26px);
+  overflow: visible;
+}
+.component-16 {
+  width: 151px;
+  height: 44px;
+  position: absolute;
+  left: 776px;
+  top: 587px;
+}
+.plus5 {
+  width: 36.63px;
+  height: 41.8px;
+  position: static;
+}
+.ellipse-19 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 41.8px;
+  position: absolute;
+  left: 0px;
+  top: 2.2px;
+}
+.group-76 {
+  width: 23.23px;
+  height: 28.6px;
+  position: static;
+}
+.line-19 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 7.15px;
+  top: 25.16px;
+}
+.line-26 {
+  position: absolute;
+  left: 19.76px;
+  top: 37.4px;
+  transform: translate(-2px, -28.6px);
+  overflow: visible;
+}
+.minus5 {
+  width: 36.63px;
+  height: 41.8px;
+  position: static;
+}
+.ellipse-110 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 36.63px;
+  height: 41.8px;
+  position: absolute;
+  left: 114.37px;
+  top: 0px;
+}
+.line-110 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 4px 0 0 0;
+  width: 23.23px;
+  height: 0px;
+  position: absolute;
+  left: 121.51px;
+  top: 22.96px;
+}
+.numbers5 {
+  width: 43.78px;
+  height: 33px;
+  position: static;
+}
+.mask-group5 {
+  width: 43.78px;
+  height: 33px;
+  position: static;
+}
+.rectangle-255 {
+  background: #d9d9d9;
+  width: 43.78px;
+  height: 33px;
+  position: absolute;
+  left: 53.61px;
+  top: 4.4px;
+}
+._0123455 {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 60.76px;
+  top: -3.3px;
+  width: 28.59px;
+  height: 114.4px;
+}
+.rectangle-26 {
+  background: #d9d9d9;
+  width: 212px;
+  height: 29px;
+  position: absolute;
+  left: 594px;
+  top: 726px;
+}
+.rectangle-27 {
+  background: #d9d9d9;
+  width: 212px;
+  height: 29px;
+  position: absolute;
+  left: 594px;
+  top: 775px;
+}
+.rectangle-28 {
+  background: #d9d9d9;
+  width: 212px;
+  height: 29px;
+  position: absolute;
+  left: 594px;
+  top: 824px;
+}
+.name {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 755px;
+  width: 136px;
+  height: 10px;
+}
+.address {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 804px;
+  width: 136px;
+  height: 10px;
+}
+.card {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 853px;
+  width: 136px;
+  height: 10px;
+}
+.rectangle-29 {
+  position: absolute;
+  left: 644px;
+  top: 883px;
+  overflow: visible;
+}
+.submit {
+  color: #000000;
+  text-align: center;
+  font: 400 16px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 662px;
+  top: 883px;
+  width: 75px;
+  height: 13px;
+}

@@ -1,0 +1,198 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #81bff9;
+  width: 1440px;
+  height: 870px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  width: 419px;
+  height: 210px;
+  position: absolute;
+  left: 527px;
+  top: 147px;
+}
+.rectangle-3 {
+  width: 446px;
+  height: 210px;
+  position: absolute;
+  left: 63px;
+  top: 147px;
+}
+.rectangle-9 {
+  width: 446px;
+  height: 210px;
+  position: absolute;
+  left: 63px;
+  top: 482px;
+}
+.rectangle-10 {
+  width: 419px;
+  height: 210px;
+  position: absolute;
+  left: calc(50% - 193px);
+  top: calc(50% - 708px);
+}
+.rectangle-5 {
+  position: absolute;
+  left: 964px;
+  top: 147px;
+  overflow: visible;
+}
+.group-6 {
+  width: 446px;
+  height: 82px;
+  position: static;
+}
+.rectangle-6 {
+  background: #f68a25;
+  width: 446px;
+  height: 82px;
+  position: absolute;
+  left: 63px;
+  top: 379px;
+}
+.rectangle-14 {
+  background: #f68a25;
+  width: 419px;
+  height: 82px;
+  position: absolute;
+  left: 964px;
+  top: 710px;
+}
+.rectangle-12 {
+  background: #f68a25;
+  width: 446px;
+  height: 79px;
+  position: absolute;
+  left: 62px;
+  top: 713px;
+}
+.american-special--live- {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 119px;
+  top: 732px;
+}
+.rectangle-7 {
+  background: #f68a25;
+  width: 419px;
+  height: 82px;
+  position: absolute;
+  left: 527px;
+  top: 378px;
+}
+.rectangle-13 {
+  background: #f68a25;
+  width: 419px;
+  height: 79px;
+  position: absolute;
+  left: 527px;
+  top: 713px;
+}
+.rectangle-8 {
+  background: #f68a25;
+  width: 417px;
+  height: 84px;
+  position: absolute;
+  left: 964px;
+  top: 376px;
+}
+.boiled-turr {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 1073px;
+  top: 395px;
+  width: 188px;
+  height: 47px;
+}
+.raw-chicken {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 145px;
+  top: 401px;
+}
+.raw-chicken-fillets {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: relative;
+}
+.poached-live-moose {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 595px;
+  top: 401px;
+}
+.rectangle-15 {
+  width: 419px;
+  height: 214px;
+  position: absolute;
+  left: 527px;
+  top: 475px;
+}
+.rectangle-16 {
+  width: 417px;
+  height: 214px;
+  position: absolute;
+  left: 964px;
+  top: 475px;
+}
+.crow-full-of-worms {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 597px;
+  top: 732px;
+}
+.bald-eagle {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 1089px;
+  top: 730px;
+}
+.frame-3 {
+  background: #f68a25;
+  padding: 11px 267px 0px 267px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1320px;
+  height: 86px;
+  position: absolute;
+  left: 63px;
+  top: 43px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.our-dirty-birds-menu-plus-our-feature-poached-moose {
+  color: #ffffff;
+  text-align: center;
+  font: 400 35px "Abhaya Libre SemiBold", sans-serif;
+  position: absolute;
+  left: 334px;
+  top: 35px;
+  width: 779px;
+  height: 75px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
