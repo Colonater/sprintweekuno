@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Order Menu</title>
+	<link rel="stylesheet" type="text/css" href="ordermenu.css">
+</head>
+<body>
+	<div class="order-menu">
+        <h1>Order Menu</h1>
+      </div>
+     
+    <div class="menu-container">
+		
+		<div class="menu-row">
+			<div class="menu-item">
+				<h3>Raw Chicken Fillets</h3>
+				<p class="price">$5.99</p>
+				<button class="add-to-cart" data-price="5.99">Add to Cart</button>
+			</div>
+			<div class="menu-item">
+				<h3>Poached Live Moose</h3>
+				<p class="price">$7.99</p>
+				<button class="add-to-cart" data-price="7.99">Add to Cart</button>
+			</div>
+			<div class="menu-item">
+				<h3>Boiled Turr</h3>
+				<p class="price">$6.99</p>
+				<button class="add-to-cart" data-price="6.99">Add to Cart</button>
+			</div>
+		</div>
+		<div class="menu-row">
+			<div class="menu-item">
+				<h3>American Special</h3>
+				<p class="price">$8.99</p>
+				<button class="add-to-cart" data-price="8.99">Add to Cart</button>
+			</div>
+			<div class="menu-item">
+				<h3>Crow Fulla Worms</h3>
+				<p class="price">$4.99</p>
+				<button class="add-to-cart" data-price="4.99">Add to Cart</button>
+			</div>
+			<div class="menu-item">
+				<h3>Puffin</h3>
+				<p class="price">$3.99</p>
+				<button class="add-to-cart" data-price="3.99">Add to Cart</button>
+			</div>
+		</div>
+		<div class="order-form">
+			<h2>Order Form</h2>
+			<form>
+				<label for="name">Name:</label>
+				<input type="text" id="name" name="name" required><br><br>
+
+				<label for="phone">Phone:</label>
+				<input type="tel" id="phone" name="phone" required><br><br>
+
+				<label for="address">Address:</label>
+				<textarea id="address" name="address" required></textarea><br><br>
+
+				<button type="button" id="calculate-total">Calculate Total</button>
+			</form>
+		</div>
+	</div>
+
+	<div class="receipt-container" style="display:none">
+		<h2>Receipt</h2>
+		<div>
+			<p>Name: <span id="receipt-name"></span></p>
+			<p>Phone: <span id="receipt-phone"></span></p>
+			<p>Address: <span id="receipt-address"></span></p>
+			<p>Order Total: <span id="receipt-total"></span></p>
+		</div>
+	</div>
+
+	<script src="order.js"></script>

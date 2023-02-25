@@ -1,0 +1,72 @@
+body {
+  background-color: #81bff9;
+}
+
+/* Center the text */
+body {
+  text-align: center;
+}
+
+/* Add a border around the order menu heading */
+h1 {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #0d0c56;
+  color: #fff;
+}
+
+.menu-container {
+  background-color: #81bff9;
+  border: 1px solid black;
+  margin: -20px auto 0;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Move the order menu box to the top */
+.menu-item:first-child {
+  margin-top: 20px;
+}
+.menu-item {
+  border: 1px solid #0d0c56;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background-color: #fff;
+  width: 30%;
+}
+
+.menu-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.order-form {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.receipt-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.add-to-cart {
+  background-color: #f68a25;
+  border: none;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart:hover {
+  background-color: #d9680c;
+}
